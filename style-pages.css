@@ -1,0 +1,15 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(118, 137, 125);
+
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}

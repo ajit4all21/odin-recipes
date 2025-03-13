@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(200, 164, 120);
+
+}
+
+.header {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+    line-height: 1.5;
+
+}
+
+ul li {
+    padding: 5px 0;
+}
+
+ul li:hover {
+    background-color: azure;
+    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1);
+}
